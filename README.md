@@ -12,9 +12,8 @@
    </a>
    <a href="cybarcraft@nusaiba.com.bd" target="_blank" rel="noopener noreferrer">
       <img src="https://img.shields.io/static/v1?message=Email&logo=mail.ru&label=&color=007BFF&logoColor=white&style=for-the-badge" alt="Email" style="max-width: 100%;">
-   </a>
-<a href="https://www.linkedin.com/company/cybercraftbangladesh/" rel="dofollow" target="_blank">
-  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height="30" alt="LinkedIn logo" style="max-width: 100%;">
+<a href="https://www.linkedin.com/company/cybercraftbangladesh/" rel="noopener" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 </p>
 
