@@ -32,7 +32,7 @@
 ### Completed Project:
 - ##### [Nusaiba.com.bd](https://nusaiba.com.bd/) - The organisation Portfolio website by using React.js, Next.js, Express.js & Mongodb database
 - ##### [DevicesFinder.com](https://devicesfinder.com/) - A comprehensive platform for Mobile reviews built with Figma, React.js, Next.js, Express.js, and MongoDB for the client.
-- ##### [MobilesInsight.com](https://mobilesinsight.com/)) - The in-depth mobile specification website built for the Client using Figma, React.js, Next.js, Express.js & Mongodb database
+- ##### [MobilesInsight.com](https://mobilesinsight.com/) - The in-depth mobile specification website built for the Client using Figma, React.js, Next.js, Express.js & Mongodb database
 - ##### [AppsHint.com](https://appshint.com/) - The new ERA for of provising ypur opinion and question answer platform using Figma, React.js, Next.js, Express.js & Mongodb database
 ### On-going Projects:
 - ##### [Android Apps Review](https://a1.ccbd.dev) - A comprehensive platform for Android app reviews built with Figma, React.js, Next.js, Express.js, and MongoDB for the client.
