@@ -168,30 +168,31 @@
 
 ### Version Control :
 
-<p> 
+<p>
   <!-- Git -->
-  <a style="text-decoration: none;" href="https://git-scm.com/" target="_blank" rel="noreferrer">
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" />
-  </a> 
+  </a>
 
   <!-- cPanel -->
-  <a style="text-decoration: none;" href="https://cpanel.net/" target="_blank" rel="noreferrer">
+  <a href="https://cpanel.net/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/cpanel/cpanel-icon.svg" alt="cPanel" width="40" height="40" />
-  </a> 
+  </a>
 
   <!-- CyberPanel -->
-  <a style="text-decoration: none;" href="https://cyberpanel.net/" target="_blank" rel="noreferrer">
+  <a href="https://cyberpanel.net/" target="_blank" rel="noreferrer">
     <img src="https://avatars.githubusercontent.com/u/50244796?s=200&v=4" alt="CyberPanel" width="40" height="40" />
-  </a> 
+  </a>
 
   <!-- CloudPanel -->
-  <a style="text-decoration: none;" href="https://www.cloudpanel.io/" target="_blank" rel="noreferrer">
+  <a href="https://www.cloudpanel.io/" target="_blank" rel="noreferrer">
     <img src="https://avatars.githubusercontent.com/u/65701559?s=200&v=4" alt="CloudPanel" width="40" height="40" />
-  </a> 
+  </a>
 
   <!-- HestiaCP -->
-  <a style="text-decoration: none;" href="https://hestiacp.com/" target="_blank" rel="noreferrer">
+  <a href="https://hestiacp.com/" target="_blank" rel="noreferrer">
     <img src="https://avatars.githubusercontent.com/u/36032222?s=200&v=4" alt="HestiaCP" width="40" height="40" />
   </a>
 </p>
+
 
