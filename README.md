@@ -2,7 +2,7 @@
 <h3 align="center">The new Era of software, content and review industry</h3>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=cybercraftbd&label=Profile%20views&color=0e75b6&style=flat" alt="cybercraftbd" /> </p>
 
-### <h3 align="left">Connect with me:</h3>
+### <h3 align="left">Connect with us:</h3>
 <p align="left">
    <a href="https://wa.me/01894578601" target="_blank" rel="noopener noreferrer">
       <img src="https://img.shields.io/static/v1?message=WhatsApp&logo=whatsapp&label=&color=25D366&logoColor=white&style=for-the-badge" alt="WhatsApp" style="max-width: 200px;  text-decoration: none">
