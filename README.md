@@ -101,7 +101,7 @@
    <a style="text-decoration: none;" href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> 
 </p>
 
-   ### Data Visualization :
+   ### Data Visualisation:
    
 <p> 
    <a style="text-decoration: none;" href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> 
@@ -169,8 +169,29 @@
 ### Version Control :
 
 <p> 
-   <a style="text-decoration: none;" href="https://cpanel.net/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-   <a style="text-decoration: none;" href="https://cyberpanel.net/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-   <a style="text-decoration: none;" href="https://www.cloudpanel.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-   <a style="text-decoration: none;" href="https://hestiacp.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
+  <!-- Git -->
+  <a style="text-decoration: none;" href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" />
+  </a> 
+
+  <!-- cPanel -->
+  <a style="text-decoration: none;" href="https://cpanel.net/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/cpanel/cpanel-icon.svg" alt="cPanel" width="40" height="40" />
+  </a> 
+
+  <!-- CyberPanel -->
+  <a style="text-decoration: none;" href="https://cyberpanel.net/" target="_blank" rel="noreferrer">
+    <img src="https://avatars.githubusercontent.com/u/50244796?s=200&v=4" alt="CyberPanel" width="40" height="40" />
+  </a> 
+
+  <!-- CloudPanel -->
+  <a style="text-decoration: none;" href="https://www.cloudpanel.io/" target="_blank" rel="noreferrer">
+    <img src="https://avatars.githubusercontent.com/u/65701559?s=200&v=4" alt="CloudPanel" width="40" height="40" />
+  </a> 
+
+  <!-- HestiaCP -->
+  <a style="text-decoration: none;" href="https://hestiacp.com/" target="_blank" rel="noreferrer">
+    <img src="https://avatars.githubusercontent.com/u/36032222?s=200&v=4" alt="HestiaCP" width="40" height="40" />
+  </a>
 </p>
+
