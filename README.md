@@ -42,7 +42,7 @@
 - ##### [Question and Answer](https://q1.ccbd.dev/) - The new ERA for of provising ypur opinion and question answer platform using Figma, React.js, Next.js, Express.js & Mongodb database
 - ##### [Question and Answer](https://q2.ccbd.dev/) - A user friendly question & answer platform using Figma, React.js, Next.js, Express.js & Mongodb database
 
-## Our Project
+## Our Utilized Technology
 ### Programming Languages :
 
 <p>
